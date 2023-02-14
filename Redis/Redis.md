@@ -12,6 +12,8 @@
 
 **为什么会使用到NoSQL数据库？**
 
+
+
 ## 技术的分类
 1、解决功能性的问题：Java、Jsp、RDBMS、Tomcat、HTML、Linux、JDBC、SVN
 2、解决扩展性的问题：Struts、Spring、SpringMVC、Hibernate、Mybatis
